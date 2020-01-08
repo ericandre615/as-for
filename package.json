@@ -1,0 +1,12 @@
+{
+  "name": "as-for",
+  "version": "1.0.0",
+  "description": "asFor iterating, map, filter, map-filter, and others",
+  "main": "as-for.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ['as', 'for', 'map', 'filter', 'iteration'],
+  "author": "Eric Andre<ericandre615@gmail.com>",
+  "license": "MIT"
+}
