@@ -4,7 +4,7 @@
 `asFor` is the one function you've been looking for to iterate over collections, map, filter, map and filter.
 Check out these amazing examples
 
-**note**: pairs well with `asIf`
+**note**: pairs well with [asIf](https://github.com/ericandre615/as-if)
 
 ### Examples
 ```
